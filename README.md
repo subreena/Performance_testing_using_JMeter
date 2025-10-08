@@ -1,4 +1,4 @@
-# Assignment on Performance testing
+# Performance testing using JMeter
 </hr>
 **URL:** https://restful-booker.herokuapp.com/booking </br>
 We have performed load testing and stress testing on this website.</br>
@@ -26,6 +26,7 @@ Html Report: </br>
 Excel Report: </br>
 <img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/a10b01d0-d410-4c52-b7d6-6603d78b0434" />
 </hr>
+
 Stress Test Report: </br> </br>
 Html Report: </br>
 <img width="750" height="400" alt="image" src="https://github.com/user-attachments/assets/c265d29f-8c56-4ab2-b079-a7517d81af6d" />
